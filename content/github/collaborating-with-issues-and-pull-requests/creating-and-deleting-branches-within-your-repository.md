@@ -12,7 +12,7 @@ versions:
 
 ### Creating a branch
 
-{% data reusables.repositories.navigate-to-repo %}
+
 
 1. Optionally, if you want to create your new branch from a branch other than the default branch for the repository, click {% octicon "git-branch" aria-label="The branch icon" %} **<em>NUMBER</em> branches** then choose another branch:
     ![Branches link on overview page](/assets/images/help/branches/branches-link.png)
